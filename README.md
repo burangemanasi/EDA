@@ -29,14 +29,15 @@ These labs train you to:
     
 *   Prepare clean, trustworthy inputs for ML models
     
+## 📁 Repository Structure
 
-📁 Repository Structure
------------------------
-
+```text
 EDA/
 ├── eda_titanic_matplotlib.ipynb
 ├── eda_adult_income_seaborn.ipynb
 └── README.md
+```
+
 
 🧪 Lab 1 — Titanic EDA (Matplotlib-First)
 -----------------------------------------
@@ -158,6 +159,7 @@ These labs directly prepare you for:
 ```bash
 pip install numpy pandas matplotlib seaborn
 jupyter notebook
+```
 
 ## 🧪 Suggested Extensions (Optional)
 
