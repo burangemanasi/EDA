@@ -33,7 +33,10 @@ These labs train you to:
 📁 Repository Structure
 -----------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   EDA/  ├── eda_titanic_matplotlib.ipynb  ├── eda_adult_income_seaborn.ipynb  └── README.md   `
+EDA/
+├── eda_titanic_matplotlib.ipynb
+├── eda_adult_income_seaborn.ipynb
+└── README.md  `
 
 🧪 Lab 1 — Titanic EDA (Matplotlib-First)
 -----------------------------------------
@@ -155,10 +158,10 @@ These labs directly prepare you for:
     
 3.  Run cells top-to-bottom
     
-
 ### Option 2: Local
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install numpy pandas matplotlib seaborn  jupyter notebook   `
+```bash
+pip install numpy pandas matplotlib seaborn
+jupyter notebook
 
 🧪 Suggested Extensions (Optional)
 ----------------------------------
