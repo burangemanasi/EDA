@@ -36,7 +36,7 @@ These labs train you to:
 EDA/
 ├── eda_titanic_matplotlib.ipynb
 ├── eda_adult_income_seaborn.ipynb
-└── README.md  `
+└── README.md
 
 🧪 Lab 1 — Titanic EDA (Matplotlib-First)
 -----------------------------------------
@@ -155,7 +155,9 @@ These labs directly prepare you for:
 3. Run cells top-to-bottom
 
 ### Option 2: Local
-
+```bash
+pip install numpy pandas matplotlib seaborn
+jupyter notebook
 
 ## 🧪 Suggested Extensions (Optional)
 
