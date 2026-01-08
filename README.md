@@ -161,7 +161,7 @@ These labs directly prepare you for:
 ### Option 2: Local
 ```bash
 pip install numpy pandas matplotlib seaborn
-jupyter notebook
+jupyter notebook```
 
 🧪 Suggested Extensions (Optional)
 ----------------------------------
